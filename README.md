@@ -14,5 +14,5 @@ I created this repository to practice and learn the basics of GitHub — how to 
 - Build confidence in sharing projects
 
 ## ✨ Stay Tuned
-I’ll be adding more soon. This is just the beginning. 💪
+I’ll be adding more soon. This is just the beginning. 💪❤️
 
