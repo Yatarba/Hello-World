@@ -1,7 +1,7 @@
 # Hello World 👋
 
 Welcome to my first GitHub project! 🚀  
-I created this repository to practice and learn the basics of GitHub — how to create a repo, make commits, and share my work.
+I created this repository to practice and learn the basics of GitHub, how to create a repo, make commits, clone a repo, and share my work.
 
 ## 🌱 What to Expect
 - Simple test files and practice code
